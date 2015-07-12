@@ -1,0 +1,23 @@
+{
+  "name": "front-end-blog",
+  "version": "0.0.1",
+  "homepage": "jianganglu.github.io",
+  "authors": [
+    "JiangangLu <jgangl123@163.com>"
+  ],
+  "description": "CSS3扁平化风格博客",
+  "keywords": [
+    "123456"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.3"
+  }
+}
